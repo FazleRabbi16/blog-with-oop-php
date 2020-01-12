@@ -1,0 +1,21 @@
+/*green*/
+.headersection,.footersection{background:#3CB6C4 none repeat scroll 0 0;}
+.icon a{background:#0DF2DB none repeat scroll 0 0;}
+.searchbtn input[type="text"]{background:#0DF2DB none repeat scroll 0 0; border:1px solid #3CB6C4;}
+.searchbtn input[type="submit"]{border:1px solid #0DF2DB;}
+.searchbtn input[type="submit"]:hover{background:#09AFF7 none repeat scroll 0 0; border:1px solid #52c252;}
+input[type="submit"]{background:#3C80C4 none repeat scroll 0 0; border:1px solid #52c252;}
+.navsection{background:#00E6FF none repeat scroll 0 0;}
+.navsection ul li{border-left:1px solid #0D97F2;border-right:1px solid #0D97F2;}
+.samepost h2 a{color:#3CB6C4;}
+.maincontent,.sidebar{background:#F0F0F0 none repeat scroll 0 0;}
+.samepost img{border:1px solid #3CB6C4;}
+.contentsection{border:1px solid #3CB6C4;}
+.samesidebar h2{background:#3CB6C4 none repeat scroll 0 0; border-bottom:2px solid #3CB6C4; color:#fff;}
+.readmore a{border:1px solid #3CB6C4;color:#00E6FF;}
+.readmore a:hover{color:#3CB6C4;}
+.pagination a{background:#00E6FF none repeat scroll 0 0;border:1px solid #3CB6C4; color:black;}
+.pagination a:hover{background:#3CB6C4 none repeat scroll 0 0;border:1px solid #3CB6C4; color:black;}
+.samepost h2,.about h2{color:#3CB6C4;}
+.about img{border:1px solid #3CB6C4;}
+.relatedpost h2{background:#3CB6C4 none repeat scroll 0 0;border-bottom:2px solid #3CB6C4 !important;}float: 
